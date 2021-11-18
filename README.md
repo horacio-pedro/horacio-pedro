@@ -4,7 +4,7 @@
 
 - 🔭  CEO at [Conexões Infinito](https://www.conexoesinfinito.com/) ex [CELFAA/DPL/EMG](https://github.com/cellwork)
 - 🥇 I love web programming where most of my free time I spend studying related technologies such as: IoT, AI and Artificial neural network
-- 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCBiJzXGvkuT9aG2Yq8BYYnQ) and open-source projects.
+- 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com) and open-source projects.
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/hor%C3%A1cio-pedro/)
 
 <!--- 📖  Currently learning: Rust -->
