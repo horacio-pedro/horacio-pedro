@@ -1,4 +1,4 @@
-### Hi there <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 ### I'm Horácio, a passionate Web Developer.
 
@@ -29,11 +29,13 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
   
-<img src="https://github-readme-stats.vercel.app/api?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515">
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515"><p/>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515"><p/>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
   
 [![Linkedin: horácio-pedro/](https://img.shields.io/badge/horáciopedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/horácio-pedro/)](https://www.linkedin.com/in/horácio-pedro/)
 [![Twitter: pedromassangom](https://img.shields.io/twitter/follow/horacio_pedr0?style=social)](https://twitter.com/horácio-pedro)
 [![GitHub horacio-pedro](https://img.shields.io/github/followers/horacio-pedro?label=follow&style=social)](https://github.com/horacio-pedro)
+  
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=horacio_pedr0&layout=wide&show_reply=off&show_retweet=off" />
