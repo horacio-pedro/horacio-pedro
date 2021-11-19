@@ -29,8 +29,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
   
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515"><p/>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515"><p/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515">
 
 ## 👨🏽‍🦲 &nbsp;Social Links
   
