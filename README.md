@@ -34,7 +34,7 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
   
-[![Linkedin: horácio-pedro/](https://img.shields.io/badge/horáciopedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/horácio-pedro/)](https://www.linkedin.com/in/horácio-pedro/)
+[![Linkedin: horácio-pedro](https://img.shields.io/badge/horaciopedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/horácio-pedro/)](https://www.linkedin.com/in/horácio-pedro/)
 [![Twitter: pedromassangom](https://img.shields.io/twitter/follow/horacio_pedr0?style=social)](https://twitter.com/horácio-pedro)
 [![GitHub horacio-pedro](https://img.shields.io/github/followers/horacio-pedro?label=follow&style=social)](https://github.com/horacio-pedro)
   
