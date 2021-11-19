@@ -6,6 +6,8 @@
 - 🥇 I love web programming where most of my free time I spend studying related technologies such as: IoT, AI and Artificial neural network
 - 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com) and open-source projects.
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/hor%C3%A1cio-pedro/)
+- 💬 Ask me about JavaScript, HTML, CSS, NoSQL, Node.JS
+- ⚡ Fun fact always daydreaming developed technologically impossible things 😜
 
 <!--- 📖  Currently learning: Rust -->
 
