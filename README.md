@@ -22,7 +22,7 @@
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="24" src="hhttps://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -34,6 +34,6 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
   
-[![Linkedin: horácio-pedro/](https://img.shields.io/badge/horácio-pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/horácio-pedro/)](https://www.linkedin.com/in/horácio-pedro/)
+[![Linkedin: horácio-pedro/](https://img.shields.io/badge/horáciopedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/horácio-pedro/)](https://www.linkedin.com/in/horácio-pedro/)
 [![Twitter: pedromassangom](https://img.shields.io/twitter/follow/horacio_pedr0?style=social)](https://twitter.com/horácio-pedro)
 [![GitHub horacio-pedro](https://img.shields.io/github/followers/horacio-pedro?label=follow&style=social)](https://github.com/horacio-pedro)
