@@ -2,11 +2,11 @@
 
 ### I'm Horácio, a passionate Web Developer.
 
-- 🔭  CEO at [Conexões Infinito](https://www.conexoesinfinito.com/) ext [CELFAA/DPL/EMG](https://github.com/cellwork)
+- 🔭  CEO at [Conexões Infinito](https://www.conexoesinfinito.com/)
 - 🔥 I love web programming where most of my free time I spend studying related technologies such as: IoT, AI and Artificial neural network
 - 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com) and open-source projects.
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/hor%C3%A1cio-pedro/)
-- 💬 Ask me about Marble.JS, MongoDB, Node.JS and FRP <code><b>Functional Reactive Programming</b></code>
+- 💬 Ask me about <code><b>Marble.JS</b></code>, <code><b>MongoDB</b></code>, <code><b>Node.JS</b></code> and <code><b>FRP <i>Functional Reactive Programming</i></b></code>
 - ⚡ Fun fact always daydreaming developed technologically impossible things 😜
 
 📖  Currently learning: <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code> Haskell
