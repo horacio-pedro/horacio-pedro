@@ -2,12 +2,12 @@
 
 ### I'm Horácio, a passionate Web Developer.
 
-- 🔭  CEO at [Conexões Infinito](https://www.conexoesinfinito.com/)
+- 🔭  Founder at [Conexões Infinito](https://www.conexoesinfinito.com/)
 - 🔥 I love web programming where most of my free time I spend studying related technologies such as: IoT, AI and Artificial neural network
 - 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com) and open-source projects.
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/hor%C3%A1cio-pedro/)
 - 💬 Ask me about <code><b>Marble.JS</b></code>, <code><b>MongoDB</b></code>, <code><b>Node.JS</b></code> and <code><b>FRP <i>Functional Reactive Programming</i></b></code>
-- ⚡ Fun fact always daydreaming developed technologically impossible things 😜
+- ⚡ Fun fact, always daydream about developing technologically impossible things 😜
 
 📖  Currently learning: <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code> Haskell
 
@@ -25,11 +25,25 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
   
-<div><img src="https://github-readme-stats.vercel.app/api?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horacio-pedro&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515"><div/>
+<div align="center">
 
-## 👨🏽‍🦲 &nbsp;Social Links
-  
-[![Linkedin: horácio-pedro](https://img.shields.io/badge/horaciopedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/horácio-pedro/)](https://www.linkedin.com/in/horácio-pedro/)
-[![Twitter: pedromassangom](https://img.shields.io/twitter/follow/horacio_pedr0?style=social)](https://twitter.com/horácio-pedro)
-[![GitHub horacio-pedro](https://img.shields.io/github/followers/horacio-pedro?label=follow&style=social)](https://github.com/horacio-pedro)
+![github contribution grid snake animation](https://raw.githubusercontent.com/horacio-pedro/horacio-pedro/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/horacio-pedro/horacio-pedro/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=horacio-pedro&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=horacio-pedro&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=horacio-pedro&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <div id="badges">
+    <a href="https://github.com/horacio-pedro">
+    <img src="https://komarev.com/ghpvc/?username=horacio-pedro&style=for-the-badge&color=orange" alt="Profile View Badge"/>
+  </a>
+  <br>
+  <a href="https://t.me/horacio-pedro">
+    <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+   <a href="https://join.skype.com/invite/DK3I4CIDQZA8">
+    <img src="https://img.shields.io/badge/Skype-00AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
+  </a>
+</div>
+</div>
