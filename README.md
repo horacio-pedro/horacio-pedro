@@ -1,10 +1,11 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-### I'm Horácio, a passionate Web Developer.
+### 🌟 Software Engineer | SaaS Enthusiast | Digital Innovator.
 
-- 🔭  Founder at [Conexões Infinito](https://www.conexoesinfinito.com/)
-- 🔥 I love web programming where most of my free time I spend studying related technologies such as: IoT, AI and Artificial neural network
-- 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com) and open-source projects.
+- 🔭  Passionate about building scalable systems, solving complex problems, and driving digital transformation through technology. With expertise in backend development, cloud solutions, and data analytics, I enjoy creating robust applications that empower businesses and deliver value.
+- 📊 Interests: Real-time data analysis, DevOps, and Web 3.0
+- 🚀 Always learning, exploring, and contributing to impactful projects.
+- 👯  I’m looking to collaborate on [YouTube](https://www.youtube.com/@bits-to-business) and open-source projects.
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/hor%C3%A1cio-pedro/)
 - 💬 Ask me about <code><b>Marble.JS</b></code>, <code><b>MongoDB</b></code>, <code><b>Node.JS</b></code> and <code><b>FRP <i>Functional Reactive Programming</i></b></code>
 - ⚡ Fun fact, always daydream about developing technologically impossible things 😜
